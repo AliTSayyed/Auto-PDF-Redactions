@@ -1,0 +1,17 @@
+{
+	"node": "custom-nodes.PdfTextExtractor",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data Transformation",
+		"File Handling"
+	],
+	"resources": {
+		"credentialDocumentation": [],
+		"primaryDocumentation": [
+			{
+				"url": "https://pdfjs.express/docs"
+			}
+		]
+	}
+}
